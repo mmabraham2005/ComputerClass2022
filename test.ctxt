@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=test
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ test\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=a\ b
+comment10.target=int\ methodOne(int,\ int)
+comment11.params=a\ b
+comment11.target=int\ methodTwo(int,\ int)
+comment2.params=arr\ str
+comment2.target=int\ countOccurrences(java.util.ArrayList,\ java.lang.String)
+comment3.params=aList\ val
+comment3.target=void\ removeValue(java.util.ArrayList,\ int)
+comment4.params=n
+comment4.target=int\ mystery(int)
+comment5.params=n
+comment5.target=int\ test(int)
+comment6.params=data
+comment6.target=void\ propLong(int[])
+comment7.params=data\ target
+comment7.target=int\ binarySearch(int[],\ int)
+comment8.params=n
+comment8.target=int\ hailstoneLength(int)
+comment9.params=str
+comment9.target=boolean\ recurMethod(java.lang.String)
+numComments=12

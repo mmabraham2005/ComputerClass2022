@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Theater
+comment1.params=seatsPerRow\ tier1Rows\ tier2Rows
+comment1.target=Theater(int,\ int,\ int)
+comment1.text=\ Constructs\ a\ Theater\ object,\ as\ described\ in\ part\ (a).\r\n\r\n\ Precondition\:\ seatsPerRow\ >\ 0;\ tier1Rows\ >\ 0;\ tier2Rows\ >\=\ 0\r\n\r\n
+comment2.params=fromRow\ fromCol\ toRow\ toCol
+comment2.target=boolean\ reassignSeat(int,\ int,\ int,\ int)
+comment2.text=\ Returns\ true\ if\ a\ seat\ holder\ was\ reassigned\ from\ the\ seat\ at\ fromRow,\ fromCol\r\n\r\n\ to\ the\ seat\ at\ toRow,\ toCol;\ otherwise\ it\ returns\ false,\ as\ described\ in\ part\ (b).\r\n\r\n\ Precondition\:\ fromRow,\ fromCol,\ toRow,\ and\ toCol\ represent\ valid\ row\ and\r\n\r\n\ column\ positions\ in\ the\ theater.\r\n\r\n\ The\ seat\ at\ fromRow,\ fromCol\ is\ not\ available.\r\n\r\n
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Seat
+comment1.params=isAvail\ tierNum
+comment1.target=Seat(boolean,\ int)
+comment2.params=
+comment2.target=boolean\ isAvailable()
+comment3.params=
+comment3.target=int\ getTier()
+comment4.params=isAvail
+comment4.target=void\ setAvailability(boolean)
+numComments=5
